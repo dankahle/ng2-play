@@ -1,10 +1,10 @@
-import { Ng2PlayPage } from './app.po';
+import { Ng4egPage } from './app.po';
 
-describe('ng2-play App', function() {
-  let page: Ng2PlayPage;
+describe('ng4eg App', () => {
+  let page: Ng4egPage;
 
   beforeEach(() => {
-    page = new Ng2PlayPage();
+    page = new Ng4egPage();
   });
 
   it('should display message saying app works', () => {

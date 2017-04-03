@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Ng2PlayPage {
+export class Ng4egPage {
   navigateTo() {
     return browser.get('/');
   }
